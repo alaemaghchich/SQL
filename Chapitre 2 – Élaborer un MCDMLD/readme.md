@@ -119,11 +119,4 @@ Le **MLD** est une transformation du MCD en :
 * Le **MLD** prépare l’implémentation SQL
 * Les clés primaires et étrangères assurent la cohérence relationnelle
 
----
 
-## 📂 Utilisation dans GitHub
-
-Ce fichier peut être utilisé comme :
-
-* `README.md` pour expliquer le projet
-* Documentation pédagogique pour l’apprentissage des bases de données
