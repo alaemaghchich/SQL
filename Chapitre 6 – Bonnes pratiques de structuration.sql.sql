@@ -21,3 +21,6 @@ CREATE TABLE Commentaire (
   id_article INT,
   FOREIGN KEY (id_article) REFERENCES Article(id)
 );
+ALTER TABLE Utilisateur ADD INDEX (email);
+
+ALTER TABLE Utilisateur COMMENT = 'Table des utilisateurs du blog';
